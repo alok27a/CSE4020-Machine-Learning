@@ -1,0 +1,11 @@
+a1,a2,a3,classification
+TRUE,Hot,High,0
+TRUE,Hot,High,0
+FALSE,Hot,High,1
+FALSE,Cool,Normal,1
+FALSE,Cool,Normal,1
+TRUE,Cool,High,0
+TRUE,Hot,High,0
+TRUE,Hot,Normal,1
+FALSE,Cool,Normal,1
+FALSE,Cool,High,1

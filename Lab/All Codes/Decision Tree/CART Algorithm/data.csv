@@ -1,0 +1,16 @@
+age,job,house,credit,loan_approved
+young,FALSE,no,fair,0
+young,FALSE,no,good,0
+young,TRUE,no,good,1
+young,TRUE,yes,fair,1
+young,FALSE,no,fair,0
+middle,FALSE,no,fair,0
+middle,FALSE,no,good,0
+middle,TRUE,yes,good,1
+middle,FALSE,yes,excellent,1
+middle,FALSE,yes,excellent,1
+old,FALSE,yes,excellent,1
+old,FALSE,yes,good,1
+old,TRUE,no,good,1
+old,TRUE,no,excellent,1
+old,FALSE,no,fair,0
